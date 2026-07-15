@@ -1,0 +1,1 @@
+echo "<resources><string name='app_name'>Bingwa Pro</string></resources>" > app/src/main/res/values/strings.xml
